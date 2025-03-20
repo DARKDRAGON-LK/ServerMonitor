@@ -9,13 +9,13 @@ sites:
     url: https://southernlanka.carecode.org
   - name: Ruhunu 
     url: https://rh.carecode.org
- - name: Ruhunu Medi House
+  - name: Ruhunu Medi House
     url: https://rmh.carecode.org
- - name: Digasiri
+  - name: Digasiri
     url: https://didasiri.carecode.org
-- name: Mathara Pharmacy
+  - name: Mathara Pharmacy
     url: https://mp.carecode.org
-- name: Engage Wellness Center
+  - name: Engage Wellness Center
     url: https://ewc.carecode.org
 
 status-website:
