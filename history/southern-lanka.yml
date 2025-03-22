@@ -1,7 +1,7 @@
-url: https://southernlanka.carecode.org
+url: $SECRET_SOUTHERNLANKA_URL
 status: up
 code: 200
-responseTime: 1350
-lastUpdated: 2025-03-22T00:44:07.874Z
+responseTime: 1225
+lastUpdated: 2025-03-22T00:58:41.205Z
 startTime: 2025-03-22T00:28:45.140Z
 generator: Upptime <https://github.com/upptime/upptime>
