@@ -4,19 +4,25 @@ repo: ServerMonitor # The name of this repository
 
 sites:
   - name: Coop
-    url: https://coop.carecode.org
+    url: $SECRET_COOP_URL
   - name: Southern Lanka
-    url: https://southernlanka.carecode.org
+    url: $SECRET_SOUTHERNLANKA_URL
   - name: Ruhunu 
-    url: https://rh.carecode.org
+    url: $SECRET_RUHUNU_URL
   - name: Ruhunu Medi House
-    url: https://rmh.carecode.org
+    url: $SECRET_RMH_URL
   - name: Digasiri
-    url: https://digasiri.carecode.org
+    url: $SECRET_DIGASIRI_URL
+  - name: Horizon
+    url: $SECRET_HORIZON_URL
   - name: Mathara Pharmacy
-    url: https://mp.carecode.org
+    url: $SECRET_MP_URL
   - name: Engage Wellness Center
-    url: https://ewc.carecode.org
+    url: $SECRET_EWC_URL
+  - name: Faculty of Medicine, University of Colombo (UCFM)
+    url: $SECRET_UCFM_URL
+  - name: Kagalu Medhi Lab
+    url: $SECRET_KML_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
