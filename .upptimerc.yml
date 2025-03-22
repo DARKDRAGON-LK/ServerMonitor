@@ -32,9 +32,14 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 commitMessages:
   commitAuthorName: "Lawan Chaamindu"
   commitAuthorEmail: "lawan.chaamindu1234@gmail.com"
+
+assignees:
+  - DARKDRAGON-LK
+  - DamithDeshan
