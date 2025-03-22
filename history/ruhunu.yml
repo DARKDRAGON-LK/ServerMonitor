@@ -1,7 +1,7 @@
-url: https://rh.carecode.org
+url: $SECRET_RUHUNU_URL
 status: up
 code: 200
-responseTime: 1375
-lastUpdated: 2025-03-22T00:44:09.434Z
+responseTime: 1189
+lastUpdated: 2025-03-22T00:58:42.574Z
 startTime: 2025-03-22T00:28:46.661Z
 generator: Upptime <https://github.com/upptime/upptime>
