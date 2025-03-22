@@ -19,7 +19,7 @@ sites:
     url: $SECRET_MP_URL
   - name: Engage Wellness Center
     url: $SECRET_EWC_URL
-  - name: Faculty of Medicine, University of Colombo (UCFM)
+  - name: UCFM
     url: $SECRET_UCFM_URL
   - name: Kagalu Medhi Lab
     url: $SECRET_KML_URL
