@@ -1,7 +1,7 @@
-url: https://rmh.carecode.org
+url: $SECRET_RMH_URL
 status: up
 code: 200
-responseTime: 1370
-lastUpdated: 2025-03-22T00:44:10.984Z
+responseTime: 1242
+lastUpdated: 2025-03-22T00:58:43.996Z
 startTime: 2025-03-22T00:28:48.165Z
 generator: Upptime <https://github.com/upptime/upptime>
