@@ -22,19 +22,19 @@
     "url": "$SECRET_SOUTHERNLANKA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "southern-lanka",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1219,
-    "timeDay": 1131,
-    "timeWeek": 1219,
-    "timeMonth": 1219,
-    "timeYear": 1219,
+    "status": "up",
+    "uptime": "99.22%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
+    "time": 1232,
+    "timeDay": 1200,
+    "timeWeek": 1232,
+    "timeMonth": 1232,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2025-03-24": 0
+      "2025-03-24": 26
     }
   },
   {
