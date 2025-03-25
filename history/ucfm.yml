@@ -1,7 +1,7 @@
 url: $SECRET_UCFM_URL
-status: down
-code: 404
-responseTime: 891
-lastUpdated: 2025-03-25T09:59:12.852Z
+status: up
+code: 200
+responseTime: 1813
+lastUpdated: 2025-03-25T10:46:22.574Z
 startTime: 2025-03-22T01:01:49.396Z
 generator: Upptime <https://github.com/upptime/upptime>
