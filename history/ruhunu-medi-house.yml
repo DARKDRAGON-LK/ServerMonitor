@@ -1,7 +1,7 @@
 url: $SECRET_RMH_URL
-status: down
-code: 502
-responseTime: 1059
-lastUpdated: 2025-05-02T04:30:59.540Z
+status: up
+code: 200
+responseTime: 1190
+lastUpdated: 2025-05-02T04:47:56.988Z
 startTime: 2025-03-22T00:28:48.165Z
 generator: Upptime <https://github.com/upptime/upptime>
