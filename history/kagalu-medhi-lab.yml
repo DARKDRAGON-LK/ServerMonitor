@@ -1,7 +1,7 @@
 url: $SECRET_KML_URL
-status: down
-code: 404
-responseTime: 1038
-lastUpdated: 2025-05-23T06:53:14.142Z
+status: up
+code: 200
+responseTime: 1772
+lastUpdated: 2025-05-23T07:33:01.864Z
 startTime: 2025-03-22T00:58:51.344Z
 generator: Upptime <https://github.com/upptime/upptime>
