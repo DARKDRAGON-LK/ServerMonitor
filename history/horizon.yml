@@ -1,7 +1,7 @@
 url: $SECRET_HORIZON_URL
-status: down
-code: 404
-responseTime: 1315
-lastUpdated: 2025-10-09T19:09:12.012Z
+status: up
+code: 200
+responseTime: 1945
+lastUpdated: 2025-10-09T19:25:02.582Z
 startTime: 2025-03-22T00:58:45.588Z
 generator: Upptime <https://github.com/upptime/upptime>
