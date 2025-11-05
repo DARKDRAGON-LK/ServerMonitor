@@ -1,7 +1,7 @@
 url: $SECRET_RUHUNU_URL
-status: down
-code: 404
-responseTime: 1126
-lastUpdated: 2025-11-05T06:57:17.882Z
+status: up
+code: 200
+responseTime: 1560
+lastUpdated: 2025-11-05T07:09:25.404Z
 startTime: 2025-03-22T00:28:46.661Z
 generator: Upptime <https://github.com/upptime/upptime>
