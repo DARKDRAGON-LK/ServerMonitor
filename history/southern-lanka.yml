@@ -1,7 +1,7 @@
 url: $SECRET_SOUTHERNLANKA_URL
-status: up
-code: 200
-responseTime: 1558
-lastUpdated: 2025-12-11T23:06:40.106Z
+status: down
+code: 404
+responseTime: 1246
+lastUpdated: 2025-12-12T19:55:17.983Z
 startTime: 2025-03-22T00:28:45.140Z
 generator: Upptime <https://github.com/upptime/upptime>
