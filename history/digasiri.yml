@@ -1,7 +1,7 @@
 url: $SECRET_DIGASIRI_URL
-status: down
-code: 404
-responseTime: 1036
-lastUpdated: 2026-02-06T16:46:37.431Z
+status: up
+code: 200
+responseTime: 1522
+lastUpdated: 2026-02-06T17:07:06.026Z
 startTime: 2025-03-22T00:28:49.795Z
 generator: Upptime <https://github.com/upptime/upptime>
