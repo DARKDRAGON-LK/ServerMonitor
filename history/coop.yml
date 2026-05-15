@@ -1,7 +1,7 @@
 url: $SECRET_COOP_URL
-status: down
-code: 500
-responseTime: 21938
-lastUpdated: 2026-05-15T18:54:09.805Z
+status: up
+code: 200
+responseTime: 3068
+lastUpdated: 2026-05-15T19:29:43.201Z
 startTime: 2025-03-22T00:28:43.611Z
 generator: Upptime <https://github.com/upptime/upptime>
