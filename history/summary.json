@@ -208,17 +208,17 @@
     "url": "$SECRET_HORIZON_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "horizon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 1616,
-    "timeDay": 2316,
-    "timeWeek": 2487,
-    "timeMonth": 2500,
-    "timeYear": 1669,
+    "time": 1633,
+    "timeDay": 5918,
+    "timeWeek": 3366,
+    "timeMonth": 2913,
+    "timeYear": 1690,
     "dailyMinutesDown": {
       "2025-06-11": 34,
       "2025-06-23": 15,
@@ -240,7 +240,8 @@
       "2026-02-06": 21,
       "2026-02-09": 372,
       "2026-02-12": 26,
-      "2026-05-19": 75
+      "2026-05-19": 75,
+      "2026-05-27": 1
     }
   },
   {
@@ -315,7 +316,7 @@
     "timeMonth": 1467,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2026-05-27": 1291,
+      "2026-05-27": 1335,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -692,7 +693,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.19%",
+    "uptimeYear": "4.18%",
     "time": 1135,
     "timeDay": 1294,
     "timeWeek": 1242,
@@ -700,7 +701,7 @@
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-06-11": 33,
-      "2026-05-27": 1291,
+      "2026-05-27": 1335,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
