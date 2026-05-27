@@ -14,7 +14,7 @@
     "timeDay": 2785,
     "timeWeek": 2655,
     "timeMonth": 3896,
-    "timeYear": 1688,
+    "timeYear": 1689,
     "dailyMinutesDown": {
       "2025-06-08": 24,
       "2025-06-17": 57,
@@ -63,7 +63,7 @@
     "timeDay": 2645,
     "timeWeek": 2582,
     "timeMonth": 2679,
-    "timeYear": 1612,
+    "timeYear": 1613,
     "dailyMinutesDown": {
       "2025-06-20": 22,
       "2025-06-23": 16,
@@ -103,7 +103,7 @@
     "timeDay": 2290,
     "timeWeek": 2523,
     "timeMonth": 2540,
-    "timeYear": 1830,
+    "timeYear": 1831,
     "dailyMinutesDown": {
       "2025-06-03": 20,
       "2025-07-17": 27,
@@ -131,16 +131,16 @@
     "url": "$SECRET_RMH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ruhunu-medi-house",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.87%",
-    "time": 1627,
-    "timeDay": 2326,
-    "timeWeek": 2486,
-    "timeMonth": 2512,
+    "time": 1626,
+    "timeDay": 2077,
+    "timeWeek": 2370,
+    "timeMonth": 2442,
     "timeYear": 1688,
     "dailyMinutesDown": {
       "2025-06-03": 19,
@@ -160,7 +160,7 @@
       "2026-02-24": 174,
       "2026-02-23": 112,
       "2026-03-06": 53,
-      "2026-05-27": 40
+      "2026-05-27": 41
     }
   },
   {
@@ -178,7 +178,7 @@
     "timeDay": 2513,
     "timeWeek": 3156,
     "timeMonth": 2728,
-    "timeYear": 1645,
+    "timeYear": 1646,
     "dailyMinutesDown": {
       "2025-06-11": 36,
       "2025-06-23": 15,
@@ -259,7 +259,7 @@
     "timeDay": 2055,
     "timeWeek": 2413,
     "timeMonth": 2436,
-    "timeYear": 1658,
+    "timeYear": 1659,
     "dailyMinutesDown": {
       "2025-06-03": 17,
       "2025-07-17": 26,
@@ -316,7 +316,7 @@
     "timeMonth": 1467,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2026-05-27": 1373,
+      "2026-05-27": 1406,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -693,7 +693,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.18%",
+    "uptimeYear": "4.17%",
     "time": 1135,
     "timeDay": 1294,
     "timeWeek": 1242,
@@ -701,7 +701,7 @@
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-06-11": 33,
-      "2026-05-27": 1373,
+      "2026-05-27": 1406,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
