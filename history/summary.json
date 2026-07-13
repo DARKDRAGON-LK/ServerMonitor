@@ -6,15 +6,15 @@
     "slug": "coop",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.88%",
     "time": 1813,
     "timeDay": 2850,
     "timeWeek": 2830,
     "timeMonth": 2860,
-    "timeYear": 1929,
+    "timeYear": 1927,
     "dailyMinutesDown": {
       "2025-07-16": 29,
       "2025-07-28": 23,
@@ -41,7 +41,7 @@
       "2026-05-15": 36,
       "2026-05-30": 27,
       "2026-06-01": 50,
-      "2026-07-13": 3
+      "2026-07-13": 23
     }
   },
   {
@@ -49,17 +49,17 @@
     "url": "$SECRET_SOUTHERNLANKA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "southern-lanka",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.86%",
-    "time": 1703,
-    "timeDay": 2751,
-    "timeWeek": 2713,
-    "timeMonth": 2824,
-    "timeYear": 1783,
+    "time": 1706,
+    "timeDay": 2911,
+    "timeWeek": 2757,
+    "timeMonth": 2832,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2025-07-28": 23,
       "2025-08-25": 20,
@@ -74,7 +74,7 @@
       "2026-02-09": 374,
       "2026-02-12": 26,
       "2026-06-01": 49,
-      "2026-07-13": 2
+      "2026-07-13": 23
     }
   },
   {
@@ -84,10 +84,10 @@
     "slug": "ruhunu",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.85%",
     "time": 1931,
     "timeDay": 11778,
     "timeWeek": 5000,
@@ -113,7 +113,7 @@
       "2026-03-06": 53,
       "2026-05-27": 41,
       "2026-06-01": 49,
-      "2026-07-13": 2
+      "2026-07-13": 24
     }
   },
   {
@@ -121,17 +121,17 @@
     "url": "$SECRET_RMH_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ruhunu-medi-house",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
-    "time": 1736,
-    "timeDay": 2069,
-    "timeWeek": 2556,
-    "timeMonth": 2743,
-    "timeYear": 1817,
+    "time": 1741,
+    "timeDay": 2597,
+    "timeWeek": 2678,
+    "timeMonth": 2771,
+    "timeYear": 1823,
     "dailyMinutesDown": {
       "2025-07-17": 27,
       "2025-07-28": 23,
@@ -150,7 +150,7 @@
       "2026-02-23": 112,
       "2026-03-06": 53,
       "2026-05-27": 40,
-      "2026-07-13": 2
+      "2026-07-13": 23
     }
   },
   {
@@ -158,17 +158,17 @@
     "url": "$SECRET_DIGASIRI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "digasiri",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.86%",
-    "time": 1736,
-    "timeDay": 2000,
-    "timeWeek": 2505,
-    "timeMonth": 2711,
-    "timeYear": 1810,
+    "time": 1741,
+    "timeDay": 2580,
+    "timeWeek": 2643,
+    "timeMonth": 2743,
+    "timeYear": 1816,
     "dailyMinutesDown": {
       "2025-07-28": 23,
       "2025-08-25": 20,
@@ -184,7 +184,7 @@
       "2026-02-09": 372,
       "2026-02-12": 26,
       "2026-05-19": 75,
-      "2026-07-13": 1
+      "2026-07-13": 22
     }
   },
   {
@@ -192,17 +192,17 @@
     "url": "$SECRET_HORIZON_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "horizon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.85%",
-    "time": 1752,
-    "timeDay": 1950,
-    "timeWeek": 2490,
-    "timeMonth": 2649,
-    "timeYear": 1866,
+    "time": 1756,
+    "timeDay": 2294,
+    "timeWeek": 2544,
+    "timeMonth": 2659,
+    "timeYear": 1869,
     "dailyMinutesDown": {
       "2025-07-28": 23,
       "2025-08-25": 20,
@@ -219,7 +219,7 @@
       "2026-02-12": 26,
       "2026-05-19": 75,
       "2026-05-27": 38,
-      "2026-07-13": 1
+      "2026-07-13": 22
     }
   },
   {
@@ -227,17 +227,17 @@
     "url": "$SECRET_MP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mathara-pharmacy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.87%",
-    "time": 1726,
-    "timeDay": 1946,
-    "timeWeek": 2499,
-    "timeMonth": 2673,
-    "timeYear": 1826,
+    "time": 1731,
+    "timeDay": 2476,
+    "timeWeek": 2614,
+    "timeMonth": 2700,
+    "timeYear": 1831,
     "dailyMinutesDown": {
       "2025-07-17": 26,
       "2025-07-28": 23,
@@ -256,7 +256,7 @@
       "2026-02-23": 112,
       "2026-03-06": 53,
       "2026-05-27": 40,
-      "2026-07-13": 1
+      "2026-07-13": 22
     }
   },
   {
@@ -294,7 +294,7 @@
     "timeMonth": 1570,
     "timeYear": 1294,
     "dailyMinutesDown": {
-      "2026-07-13": 1315,
+      "2026-07-13": 1336,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -678,7 +678,7 @@
     "timeMonth": 1307,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2026-07-13": 1315,
+      "2026-07-13": 1336,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
