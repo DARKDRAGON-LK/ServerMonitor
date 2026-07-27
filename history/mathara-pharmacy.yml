@@ -1,7 +1,7 @@
 url: $SECRET_MP_URL
-status: down
-code: 404
-responseTime: 1601
-lastUpdated: 2026-07-27T21:53:13.385Z
+status: up
+code: 200
+responseTime: 3487
+lastUpdated: 2026-07-27T22:18:58.343Z
 startTime: 2025-03-22T00:28:51.292Z
 generator: Upptime <https://github.com/upptime/upptime>
